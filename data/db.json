@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Todo": 5
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"tittle\":\"iniciar proyecto de svelte\",\"desc\":\"urgente para el domingo\",\"isComplete\":false,\"id\":1}",
+      "2": "{\"tittle\":\"crear landing page\",\"desc\":\"tailwind y react\",\"isComplete\":false,\"id\":2}",
+      "3": "{\"tittle\":\"crear landing page\",\"desc\":\"tailwind y react\",\"isComplete\":false,\"id\":3}",
+      "4": "{\"tittle\":\"crear landing page\",\"isComplete\":false,\"id\":4}"
+    }
+  }
+}
